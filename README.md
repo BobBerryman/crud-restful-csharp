@@ -27,5 +27,3 @@ This application demonstrate the following functionalities:
 Enjoy!
 
 ## Licence
-
-Licenced under [MIT](http://opensource.org/licenses/mit-license.php).
